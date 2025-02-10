@@ -1,0 +1,8 @@
+org\example\sbstarter\aspect\HttpLogAspect$1.class
+org\example\sbstarter\configuration\HttpConfigurationProperties.class
+org\example\sbstarter\configuration\HttpLogConfiguration.class
+org\example\sbstarter\SBstarterApplication.class
+org\example\sbstarter\aspect\loggable\Loggable.class
+org\example\sbstarter\configuration\enums\LogLevel.class
+META-INF\spring-configuration-metadata.json
+org\example\sbstarter\aspect\HttpLogAspect.class

@@ -1,0 +1,23 @@
+{
+  "groups": [
+    {
+      "name": "http.logging",
+      "type": "org.example.sbstarter.configuration.HttpConfigurationProperties",
+      "sourceType": "org.example.sbstarter.configuration.HttpConfigurationProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "http.logging.log-enabled",
+      "type": "java.lang.Boolean",
+      "sourceType": "org.example.sbstarter.configuration.HttpConfigurationProperties",
+      "defaultValue": false
+    },
+    {
+      "name": "http.logging.log-level",
+      "type": "org.example.sbstarter.configuration.enums.LogLevel",
+      "sourceType": "org.example.sbstarter.configuration.HttpConfigurationProperties"
+    }
+  ],
+  "hints": []
+}
